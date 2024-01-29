@@ -27,14 +27,8 @@ This project was developed for the McKinsey Hackathon and focuses on analyzing a
 ## Contributing
 Contributions to enhance the model or explore further insights are welcome. Please fork the repository and submit pull requests with your proposed changes.
 
-## License
-This project is licensed under [Your License Choice]. For more details, see the LICENSE file in the repository.
-
-## Contact
-For more information, collaboration, or queries, please contact [Your Contact Information].
-
 ## Acknowledgments
 - Thanks to McKinsey for hosting the Hackathon and providing a platform for developing this project.
-- [Additional acknowledgments if any]
+
 
 
